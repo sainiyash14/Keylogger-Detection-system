@@ -1,0 +1,8 @@
+tkinter
+pillow
+opencv-python
+pynput
+requests
+psutil
+wmi
+pypiwin32
